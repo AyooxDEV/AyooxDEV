@@ -29,7 +29,7 @@ Clear documentation and structured security reporting
 🔧 Tools & Technologies
 
 SIEM & Logging  
-- Splunk
+- Splunks
 
 
 
